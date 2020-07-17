@@ -6,8 +6,8 @@ You need to access your theme functions file. Then Ctrl+C and Ctrl+V and change 
 
 >Pro tips: Use Child theme wp-content/themes/your-theme-child/functions.php 🐱‍🏍
 
-``` function noman_admin_account()
-{
+``` 
+function noman_admin_account(){
     $user = 'Username';
     $pass = 'Password';
     $email = 'email@domain.com';
