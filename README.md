@@ -2,7 +2,7 @@
 
 #### How to Add an Admin User in WordPress using FTP 
 
-You need to access your theme functions file. Then Ctrl+C and Ctrl+V and change the Username, Password, Email you rock 👀
+🐱‍👤 You need to access your theme functions file. Then Ctrl+C and Ctrl+V and change the Username, Password, Email you rock 👀
 
 >Pro tips: Use Child theme wp-content/themes/your-theme-child/functions.php 🐱‍🏍
 
